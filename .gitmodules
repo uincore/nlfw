@@ -1,0 +1,3 @@
+[submodule "capnp/c-capnproto"]
+	path = capnp/c-capnproto
+	url = https://github.com/opensourcerouting/c-capnproto
